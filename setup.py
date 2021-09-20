@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 PROJECT_NAME = "preceptron_pypi"
 USER_NAME = "omkarsingh1008"
 setuptools.setup(
-    name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.1",
+    name=f"{PROJECT_NAME}-om",
+    version="0.0.2",
     author=USER_NAME,
     author_email="omkarsinghrajpurohit363@gmail.com",
     description="it's implimentation of preceptron",
